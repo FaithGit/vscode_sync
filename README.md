@@ -17,6 +17,6 @@ Extensions Added:
   > * vscode-language-pack-zh-hans v1.29.2
 --------------------
 
-GitHub Token: eadb84f4752b816eb28fc3794e4011999934be33
+新建一个token  在下载我的gist就行了
 
 GitHub Gist: 19c76b39a23570129e05740ddb4002ef
